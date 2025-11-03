@@ -283,8 +283,7 @@ export default function SageFi() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Email</h3>
-                    <p className="text-gray-600">support@sagefi.com</p>
-                    <p className="text-gray-600">hello@sagefi.com</p>
+                    <p className="text-gray-600">ironspec07@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -293,8 +292,8 @@ export default function SageFi() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Phone</h3>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
-                    <p className="text-gray-600">Mon-Fri, 9am-6pm EST</p>
+                    <p className="text-gray-600">+91 7784810682</p>
+                    <p className="text-gray-600">Mon-Fri, 9am-6pm IST</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -303,8 +302,8 @@ export default function SageFi() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Office</h3>
-                    <p className="text-gray-600">123 Finance Street</p>
-                    <p className="text-gray-600">New York, NY 10001</p>
+                    <p className="text-gray-600">Rajeev Vihar,Naubasta</p>
+                    <p className="text-gray-600">Kanpur-208021</p>
                   </div>
                 </div>
               </div>
